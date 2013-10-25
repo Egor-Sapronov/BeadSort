@@ -1,0 +1,6 @@
+C:\Users\EgorPC\Dropbox\Learning\BeadSort\BeadSort\bin\Debug\BeadSort.exe.config
+C:\Users\EgorPC\Dropbox\Learning\BeadSort\BeadSort\obj\Debug\BeadSort.csprojResolveAssemblyReference.cache
+C:\Users\EgorPC\Dropbox\Learning\BeadSort\BeadSort\bin\Debug\BeadSort.exe
+C:\Users\EgorPC\Dropbox\Learning\BeadSort\BeadSort\bin\Debug\BeadSort.pdb
+C:\Users\EgorPC\Dropbox\Learning\BeadSort\BeadSort\obj\Debug\BeadSort.exe
+C:\Users\EgorPC\Dropbox\Learning\BeadSort\BeadSort\obj\Debug\BeadSort.pdb
